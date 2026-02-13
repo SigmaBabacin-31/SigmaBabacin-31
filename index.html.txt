@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0;url=https://youtu.be/DLzxrzFCyOs?si=K7Ye5l2pknnWm6g-">
+  <title></title>
+</head>
+<body onload="window.location.href='https://youtu.be/DLzxrzFCyOs?si=K7Ye5l2pknnWm6g-';">
+</body>
+</html>
